@@ -302,6 +302,8 @@ The following functionality was verified:
 * Runtime mode changes work correctly
 * Service communication functions properly
 * Package builds and launches successfully
+  
+<img width="1074" height="607" alt="Screenshot 2026-06-10 144450" src="https://github.com/user-attachments/assets/826f8468-f636-4eba-b927-834c4a4e5c03" />
 
 ---
 
@@ -313,11 +315,3 @@ The following functionality was verified:
 * sensor_msgs
 * geometry_msgs
 * rclpy
-
----
-
-## Author
-
-Rani Amayri
-
-Task 2 – ROS 2 Obstacle Avoidance with Service-Based Mode Control
