@@ -25,7 +25,7 @@ ros2_ws/src/
 │   │   └── obstacle_avoidance_node.py
 │   │
 │   ├── launch/
-│   │   └── obstacle_avoidance.launch.py
+│   │   └── robot_launch.py
 │   │
 │   ├── config/
 │   │   └── params.yaml
